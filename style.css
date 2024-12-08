@@ -1247,7 +1247,7 @@ header {
 }
 
 .campaign-single {
-    background-image: url(../../img/single-campaign.png);
+    background-image: url(single-campaign.png);
     background-attachment: fixed;
     padding: 140px 15px;
     margin-bottom: 40px;
